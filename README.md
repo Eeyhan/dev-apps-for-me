@@ -1,1 +1,3 @@
-# dev-apps-for-windows
+# dev-apps-for-me
+
+windows and android
