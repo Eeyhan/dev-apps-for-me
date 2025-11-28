@@ -1,3 +1,6 @@
 # dev-apps-for-me
 
-windows and android
+## 在windows端作为逆向，爬虫，反爬虫，安全领域常用的开发工具
+## 在安卓端使用到的常用app
+
+# 仅作为个人学习使用备份，不涉及使用盗版等软件
